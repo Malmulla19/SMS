@@ -9,8 +9,8 @@ client = vonage.Client(key=APIKEY, secret=APISECRET)
 sms = vonage.Sms(client)
 responseData = sms.send_message(
     {
-        "from": "ANY NAME",
-        "to": "ANY NUMBER",
+        "from": "N.B.B",
+        "to": "97339003955",
         "text": "DO NOT FORGET THE EVALUATION",
     }
 )
