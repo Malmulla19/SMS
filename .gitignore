@@ -4,3 +4,5 @@
 .env
 #ignore txt files
 secrets.txt
+#ignore SMS folder
+SMS
