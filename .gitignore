@@ -1,0 +1,6 @@
+#ignore yaml files
+*.yml
+#ignore environment files
+.env
+#ignore txt files
+secrets.txt
